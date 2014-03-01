@@ -1,1 +1,0 @@
-"use strict";angular.module("mouseMoveSpeedApp",["ngResource","ui.bootstrap"]),angular.module("mouseMoveSpeedApp").controller("MainCtrl",["$scope",function(){}]);
